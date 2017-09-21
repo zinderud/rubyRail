@@ -23,3 +23,20 @@ p s.methods
 p s.method(:upcase).call
 p s.is_a?(String)
 p s.kind_of?(String)
+
+
+class Olsa
+ def method_missing(method_ismi,*args,&block)
+  if method_ismi==:olmayan_method
+   "bu method yok "
+  else
+    "çağrılan metof #{method_ismi}, ve #{args}"
+  end
+ end
+end
+
+p o=Olsa.new
+p o.olmayan_method
+p o.ds
+
+
