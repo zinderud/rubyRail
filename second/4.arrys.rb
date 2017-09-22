@@ -182,3 +182,23 @@ notlar.drop_while {|notu| notu < 50 }   # => [53, 70, 99, 65]
 notlar = [40, 45, 53, 70, 99, 65]
 notlar.take_while { |notu| notu < 50 } # => [40, 45]
 p a.each { |k| puts "k: #{k}" }
+
+# 3'lü üret
+[1, 2, 3, 4, 5,6].each_cons(3).to_a
+
+
+[1, 2, 3, 4, 5].inject{ |toplam, eleman| toplam + eleman } # => 15
+[1, 2, 3, 4, 5].reduce(:+) # => 15
+en_uzun_hayvan_ismi = ["kedi", "köpek", "kamplumbağa"].inject do |buffer, hayvan|
+  buffer.length > hayvan.length ? buffer : hayvan
+end
+
+en_uzun_hayvan_ismi # => "kamplumbağa"
+
+[1, 2, 3, 4, 5, 6].flat_map { |n| [n, -n] } # => [1, -1, 2, -2, 3, -3, 4, -4, 5, -5, 6, -6]
+
+# 2'den büyük 3, 4 ve 5 olmasına rağmen tek sonuç
+[1, 2, 3, 4, 5].bsearch{ |n| n > 2 }  # => 3
+
+[1, 2, 3, 4, 5].bsearch{ |n| n >= 4 } # => 4
+

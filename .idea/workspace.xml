@@ -16,7 +16,9 @@
     <SUITE FILE_PATH="coverage/rubyRail@2_number.coverage" NAME="2.number Coverage Results" MODIFIED="1506028192778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/second" MODULE_NAME="rubyRail" />
     <SUITE FILE_PATH="coverage/rubyRail@6_proc.coverage" NAME="6.proc Coverage Results" MODIFIED="1505990733506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first" MODULE_NAME="rubyRail" />
     <SUITE FILE_PATH="coverage/rubyRail@Conditional.coverage" NAME="Conditional Coverage Results" MODIFIED="1506002951135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first" MODULE_NAME="rubyRail" />
+    <SUITE FILE_PATH="coverage/rubyRail@6_symboll.coverage" NAME="6.symboll Coverage Results" MODIFIED="1506088760852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/second" MODULE_NAME="rubyRail" />
     <SUITE FILE_PATH="coverage/rubyRail@4_arrys.coverage" NAME="4.arrys Coverage Results" MODIFIED="1506082299756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/second" MODULE_NAME="rubyRail" />
+    <SUITE FILE_PATH="coverage/rubyRail@5_hash.coverage" NAME="5.hash Coverage Results" MODIFIED="1506088757059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/second" MODULE_NAME="rubyRail" />
     <SUITE FILE_PATH="coverage/rubyRail@3_string.coverage" NAME="3.string Coverage Results" MODIFIED="1506033847452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/second" MODULE_NAME="rubyRail" />
     <SUITE FILE_PATH="coverage/rubyRail@1_object.coverage" NAME="1.object Coverage Results" MODIFIED="1506028065821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/second" MODULE_NAME="rubyRail" />
   </component>
@@ -42,11 +44,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="4.arrys.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="4.arrys.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/second/4.arrys.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="548">
-              <caret line="182" column="49" lean-forward="false" selection-start-line="182" selection-start-column="49" selection-end-line="182" selection-end-column="49" />
+            <state relative-caret-position="647">
+              <caret line="203" column="0" lean-forward="true" selection-start-line="203" selection-start-column="0" selection-end-line="203" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="5.hash.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/second/5.hash.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="579">
+              <caret line="70" column="22" lean-forward="false" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="6.symboll.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/second/6.symboll.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -74,6 +96,8 @@
         <option value="$PROJECT_DIR$/second/2.number.rb" />
         <option value="$PROJECT_DIR$/second/3.string.rb" />
         <option value="$PROJECT_DIR$/second/4.arrys.rb" />
+        <option value="$PROJECT_DIR$/second/5.hash.rb" />
+        <option value="$PROJECT_DIR$/second/6.symboll.rb" />
       </list>
     </option>
   </component>
@@ -141,21 +165,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Ruby.4.arrys">
-    <configuration name="1.object" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="rubyRail" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/second" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/second/1.object.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-    </configuration>
+  <component name="RunManager" selected="Ruby.6.symboll">
     <configuration name="2.number" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="rubyRail" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -198,10 +208,10 @@
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/second/4.arrys.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
     </configuration>
-    <configuration name="8.Conditional" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="5.hash" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="rubyRail" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/first" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/second" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -209,23 +219,37 @@
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/first/8.Conditional.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/second/5.hash.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+    </configuration>
+    <configuration name="6.symboll" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="rubyRail" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/second" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/second/6.symboll.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Ruby.8.Conditional" />
-      <item index="1" class="java.lang.String" itemvalue="Ruby.1.object" />
-      <item index="2" class="java.lang.String" itemvalue="Ruby.2.number" />
-      <item index="3" class="java.lang.String" itemvalue="Ruby.3.string" />
-      <item index="4" class="java.lang.String" itemvalue="Ruby.4.arrys" />
+      <item index="0" class="java.lang.String" itemvalue="Ruby.2.number" />
+      <item index="1" class="java.lang.String" itemvalue="Ruby.3.string" />
+      <item index="2" class="java.lang.String" itemvalue="Ruby.4.arrys" />
+      <item index="3" class="java.lang.String" itemvalue="Ruby.5.hash" />
+      <item index="4" class="java.lang.String" itemvalue="Ruby.6.symboll" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Ruby.4.arrys" />
-        <item index="1" class="java.lang.String" itemvalue="Ruby.3.string" />
-        <item index="2" class="java.lang.String" itemvalue="Ruby.2.number" />
-        <item index="3" class="java.lang.String" itemvalue="Ruby.1.object" />
-        <item index="4" class="java.lang.String" itemvalue="Ruby.8.Conditional" />
+        <item index="0" class="java.lang.String" itemvalue="Ruby.6.symboll" />
+        <item index="1" class="java.lang.String" itemvalue="Ruby.5.hash" />
+        <item index="2" class="java.lang.String" itemvalue="Ruby.4.arrys" />
+        <item index="3" class="java.lang.String" itemvalue="Ruby.3.string" />
+        <item index="4" class="java.lang.String" itemvalue="Ruby.2.number" />
       </list>
     </recent_temporary>
   </component>
@@ -243,12 +267,12 @@
       <workItem from="1505990324795" duration="1571000" />
       <workItem from="1506002000977" duration="2146000" />
       <workItem from="1506025193872" duration="6936000" />
-      <workItem from="1506076241760" duration="3309000" />
+      <workItem from="1506076241760" duration="5050000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13962000" />
+    <option name="totallyTimeSpent" value="15703000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="752" y="0" width="1174" height="1047" extended-state="0" />
@@ -427,8 +451,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/second/4.arrys.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="548">
-          <caret line="182" column="49" lean-forward="false" selection-start-line="182" selection-start-column="49" selection-end-line="182" selection-end-column="49" />
+        <state relative-caret-position="647">
+          <caret line="203" column="0" lean-forward="true" selection-start-line="203" selection-start-column="0" selection-end-line="203" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/second/5.hash.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="70" column="22" lean-forward="false" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/second/6.symboll.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
