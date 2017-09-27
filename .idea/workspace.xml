@@ -2,70 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51a7979b-b78e-48c3-89f4-ddeb153f0a43" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/app/controllers/concerns/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/app/models/concerns/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/lib/tasks/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/log/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/test/controllers/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/test/fixtures/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/test/fixtures/files/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/test/integration/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/test/mailers/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/test/models/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/tmp/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/vendor/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/patterns/Singleton.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/Gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/Gemfile.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/app/channels/application_cable/channel.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/app/channels/application_cable/connection.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/app/controllers/api/v1/articles_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/app/controllers/application_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/app/jobs/application_job.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/app/mailers/application_mailer.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/app/models/application_record.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/app/models/article.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/app/views/layouts/mailer.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/app/views/layouts/mailer.text.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/bin/bundle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/bin/rails" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/bin/rake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/bin/setup" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/bin/update" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/config.ru" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/config/application.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/config/boot.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/config/cable.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/config/database.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/config/environment.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/config/environments/development.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/config/environments/production.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/config/environments/test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/config/initializers/application_controller_renderer.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/config/initializers/backtrace_silencers.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/config/initializers/cors.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/config/initializers/filter_parameter_logging.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/config/initializers/inflections.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/config/initializers/mime_types.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/config/initializers/wrap_parameters.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/config/locales/en.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/config/puma.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/config/routes.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/config/secrets.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/db/migrate/20170627160121_create_articles.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/db/schema.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/db/seeds.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/log/development.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/public/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/test/fixtures/articles.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/test/models/article_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/test/test_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/tmp/pids/server.pid" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails-rest/tmp/restart.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/second/7.class.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/rubyRail.iml" afterPath="$PROJECT_DIR$/.idea/rubyRail.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -100,8 +36,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="200">
+              <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -188,6 +124,7 @@
     <property name="last_opened_file_path" value="D:/angular/ANKET/questionnaire-master" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="GO_FMT" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -310,12 +247,20 @@
       <workItem from="1506100929660" duration="1116000" />
       <workItem from="1506445478117" duration="1010000" />
       <workItem from="1506507607605" duration="3331000" />
-      <workItem from="1506524579117" duration="641000" />
+      <workItem from="1506524579117" duration="684000" />
     </task>
+    <task id="LOCAL-00001" summary="rails rest">
+      <created>1506530961055</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1506530961055</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23422000" />
+    <option name="totallyTimeSpent" value="23465000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="701" y="0" width="1221" height="1047" extended-state="0" />
@@ -344,6 +289,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="rails rest" />
+    <option name="LAST_COMMIT_MESSAGE" value="rails rest" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -546,6 +495,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -553,6 +503,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -560,6 +511,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -567,6 +519,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -588,6 +541,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -595,6 +549,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -602,6 +557,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -609,13 +565,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="200">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
           <folding />
         </state>
       </provider>
