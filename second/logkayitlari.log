@@ -1,0 +1,3 @@
+# Logfile created on 2017-09-28 17:13:52 +0300 by logger.rb/56504
+I, [2017-09-28T17:13:52.277830 #5432]  INFO -- : bu info logu
+W, [2017-09-28T17:13:52.277830 #5432]  WARN -- : bu da warn
