@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rails/zRaBlog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/todos-api" vcs="Git" />
   </component>
 </project>
