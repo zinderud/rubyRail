@@ -8,103 +8,13 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todos-api/spec/rails_helper.rb" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todos-api/spec/requests/todos_spec.rb" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todos-api/spec/support/request_spec_helper.rb" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/Gemfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/Gemfile.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/Rakefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/app/assets/config/manifest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/app/assets/images/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/app/assets/javascripts/application.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/app/assets/javascripts/cable.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/app/assets/javascripts/channels/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/app/assets/javascripts/posts.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/app/assets/stylesheets/application.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/app/assets/stylesheets/posts.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/app/assets/stylesheets/scaffolds.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/app/channels/application_cable/channel.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/app/channels/application_cable/connection.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/app/controllers/application_controller.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/app/controllers/concerns/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/app/controllers/posts_controller.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/app/helpers/application_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/app/helpers/posts_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/app/jobs/application_job.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/app/mailers/application_mailer.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/app/models/application_record.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/app/models/concerns/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/app/models/post.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/app/views/layouts/application.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/app/views/layouts/mailer.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/app/views/layouts/mailer.text.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/app/views/posts/_form.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/app/views/posts/_post.json.jbuilder" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/app/views/posts/edit.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/app/views/posts/index.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/app/views/posts/index.json.jbuilder" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/app/views/posts/new.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/app/views/posts/show.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/app/views/posts/show.json.jbuilder" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/bin/bundle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/bin/rails" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/bin/rake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/bin/setup" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/bin/update" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/bin/yarn" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/config.ru" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/config/application.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/config/boot.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/config/cable.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/config/database.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/config/environment.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/config/environments/development.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/config/environments/production.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/config/environments/test.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/config/initializers/application_controller_renderer.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/config/initializers/assets.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/config/initializers/backtrace_silencers.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/config/initializers/cookies_serializer.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/config/initializers/filter_parameter_logging.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/config/initializers/friendly_id.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/config/initializers/inflections.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/config/initializers/mime_types.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/config/initializers/wrap_parameters.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/config/locales/en.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/config/puma.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/config/routes.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/config/secrets.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/db/migrate/20170929194929_create_friendly_id_slugs.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/db/migrate/20170929195603_create_posts.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/db/seeds.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/lib/assets/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/lib/tasks/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/log/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/public/404.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/public/422.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/public/500.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/public/apple-touch-icon-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/public/apple-touch-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/public/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/public/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/test/application_system_test_case.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/test/controllers/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/test/controllers/posts_controller_test.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/test/fixtures/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/test/fixtures/files/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/test/fixtures/posts.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/test/helpers/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/test/integration/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/test/mailers/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/test/models/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/test/models/post_test.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/test/system/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/test/system/posts_test.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/test/test_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/tmp/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rails/zRaBlog/vendor/.keep" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rails/zrblog/app/controllers/posts_controller.rb" afterPath="$PROJECT_DIR$/rails/zrblog/app/controllers/posts_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rails/zrblog/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/rails/zrblog/app/views/layouts/application.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rails/zrblog/app/views/posts/_form.html.erb" afterPath="$PROJECT_DIR$/rails/zrblog/app/views/posts/_form.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rails/zrblog/app/views/posts/edit.html.erb" afterPath="$PROJECT_DIR$/rails/zrblog/app/views/posts/edit.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rails/zrblog/app/views/posts/new.html.erb" afterPath="$PROJECT_DIR$/rails/zrblog/app/views/posts/new.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rails/zrblog/app/views/posts/show.html.erb" afterPath="$PROJECT_DIR$/rails/zrblog/app/views/posts/show.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rails/zrblog/config/routes.rb" afterPath="$PROJECT_DIR$/rails/zrblog/config/routes.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -146,14 +56,74 @@
       <file leaf-file-name="posts_controller.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rails/zrblog/app/controllers/posts_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="66" column="4" lean-forward="true" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="45" />
+            <state relative-caret-position="280">
+              <caret line="71" column="62" lean-forward="false" selection-start-line="71" selection-start-column="62" selection-end-line="71" selection-end-column="62" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_form.html.erb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rails/zrblog/app/views/posts/_form.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="167">
+              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.html.erb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rails/zrblog/app/views/layouts/application.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new.html.erb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rails/zrblog/app/views/posts/new.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show.html.erb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rails/zrblog/app/views/posts/show.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="38" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edit.html.erb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rails/zrblog/app/views/posts/edit.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rails/zrblog/config/routes.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rails/zrblog/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -190,11 +160,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/rails-rest/config/database.yml" />
-        <option value="$PROJECT_DIR$/patterns/Singleton.rb" />
-        <option value="$PROJECT_DIR$/todos-api/Gemfile" />
-        <option value="$PROJECT_DIR$/todos-api/spec/models/todo_spec.rb" />
-        <option value="$PROJECT_DIR$/todos-api/spec/models/item_spec.rb" />
         <option value="$PROJECT_DIR$/todos-api/app/models/todo.rb" />
         <option value="$PROJECT_DIR$/todos-api/app/models/item.rb" />
         <option value="$PROJECT_DIR$/todos-api/README.md" />
@@ -236,11 +201,16 @@
         <option value="$PROJECT_DIR$/rails/zrblog/Gemfile" />
         <option value="$PROJECT_DIR$/rails/zrblog/app/assets/stylesheets/application.scss" />
         <option value="$PROJECT_DIR$/rails/zrblog/app/models/post.rb" />
-        <option value="$PROJECT_DIR$/rails/zrblog/config/routes.rb" />
         <option value="$PROJECT_DIR$/rails/zrblog/db/migrate/20170929210409_create_posts.rb" />
         <option value="$PROJECT_DIR$/rails/zrblog/db/migrate/20170929211223_create_friendly_id_slugs.rb" />
-        <option value="$PROJECT_DIR$/rails/zrblog/app/controllers/posts_controller.rb" />
         <option value="$PROJECT_DIR$/rails/zrblog/README.md" />
+        <option value="$PROJECT_DIR$/rails/zrblog/config/routes.rb" />
+        <option value="$PROJECT_DIR$/rails/zrblog/app/controllers/posts_controller.rb" />
+        <option value="$PROJECT_DIR$/rails/zrblog/app/views/posts/_form.html.erb" />
+        <option value="$PROJECT_DIR$/rails/zrblog/app/views/posts/show.html.erb" />
+        <option value="$PROJECT_DIR$/rails/zrblog/app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/rails/zrblog/app/views/posts/new.html.erb" />
+        <option value="$PROJECT_DIR$/rails/zrblog/app/views/posts/edit.html.erb" />
       </list>
     </option>
   </component>
@@ -305,6 +275,39 @@
               <item name="zrblog" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rubyRail" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rubyRail" type="462c0819:PsiDirectoryNode" />
+              <item name="rails" type="462c0819:PsiDirectoryNode" />
+              <item name="zrblog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rubyRail" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rubyRail" type="462c0819:PsiDirectoryNode" />
+              <item name="rails" type="462c0819:PsiDirectoryNode" />
+              <item name="zrblog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rubyRail" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rubyRail" type="462c0819:PsiDirectoryNode" />
+              <item name="rails" type="462c0819:PsiDirectoryNode" />
+              <item name="zrblog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rubyRail" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rubyRail" type="462c0819:PsiDirectoryNode" />
+              <item name="rails" type="462c0819:PsiDirectoryNode" />
+              <item name="zrblog" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -447,7 +450,7 @@
       <workItem from="1506593474514" duration="13264000" />
       <workItem from="1506632841974" duration="4910000" />
       <workItem from="1506713471115" duration="2245000" />
-      <workItem from="1506715844741" duration="3434000" />
+      <workItem from="1506715844741" duration="6306000" />
     </task>
     <task id="LOCAL-00001" summary="rails rest">
       <created>1506530961055</created>
@@ -495,7 +498,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53646000" />
+    <option name="totallyTimeSpent" value="56518000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1380" height="744" extended-state="6" />
@@ -537,29 +540,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/second/11.math.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/second/12.temp.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/gecicidosya20170928-9064-153qod8" />
-    <entry file="file://$PROJECT_DIR$/patterns/Singleton .rb" />
-    <entry file="file://$PROJECT_DIR$/patterns/Singleton.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="14" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/patterns/1.Singleton .rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -855,14 +835,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rails/zrblog/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/rails/zrblog/db/migrate/20170929210409_create_posts.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -879,14 +851,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rails/zrblog/app/controllers/posts_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="66" column="4" lean-forward="true" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/rails/zrblog/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -895,6 +859,62 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rails/zrblog/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rails/zrblog/app/controllers/posts_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="71" column="62" lean-forward="false" selection-start-line="71" selection-start-column="62" selection-end-line="71" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rails/zrblog/app/views/posts/_form.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rails/zrblog/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rails/zrblog/app/views/posts/new.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rails/zrblog/app/views/posts/show.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="38" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rails/zrblog/app/views/posts/edit.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
