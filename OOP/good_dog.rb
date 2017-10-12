@@ -5,7 +5,7 @@ class GoodDog
   def get_name
     @name
   end
-  def set_name(name)
+  def set_name=(name) #set_name= ?
     @name= name
 
   end
